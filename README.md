@@ -34,9 +34,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of the implemented features:
 
-![Video Walkthrough](project-walkthrough.gif)
-
-[Video Walkthrough](https://i.imgur.com/drWBZFS.gif)
+![Video Walkthrough](samosa-count-walkthrough.gif)
 
 ## Notes
 
